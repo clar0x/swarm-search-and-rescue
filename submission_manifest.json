@@ -11,11 +11,11 @@
       "family_id": "cf_search_and_rescue",
       "interface_version": "submission_zip.v1",
       "artifact_path": "artifacts/cf_search_and_rescue/submission.zip",
-      "sha256": "ea5cc6edc33475b8b395117f8696debd9c7cec2ef1e7270912ebe293b60b1b2b",
-      "size_bytes": 2134254,
+      "sha256": "d65efbc3461cc790dd22b9e66a80cddc7dd6429c2a44e42d6b58f08ce7a2582b",
+      "size_bytes": 2134268,
       "metadata": {
         "packaged_with": "swarm_cli",
-        "source_dir_name": "src"
+        "source_dir_name": "stage_sp17"
       }
     }
   ]
